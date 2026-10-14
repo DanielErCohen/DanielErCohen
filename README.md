@@ -5,6 +5,7 @@ I'm a product lead who builds. I have 8+ years in product across B2B and B2C. Si
 ## What is here
 
 - [**how-i-work**](https://github.com/DanielErCohen/how-i-work): the nine-step cycle I run on my current products, repo templates, my Claude Code setup and a few small builds. All of it is copyable.
+- [**cv-tailor**](https://github.com/DanielErCohen/cv-tailor): the steps my CV app ran, as Claude skills and markdown. Build a main CV, tailor it to a role and a company, keep every version in git.
 
 ## Products
 
