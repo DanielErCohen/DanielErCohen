@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-I'm a product lead who builds, with 8+ years in product across B2B and B2C. These repos hold the setup, cycle and skills I use to build products with AI, free to copy.
+I'm a product lead with 8+ years in product across B2B and B2C. These repos hold the setup, cycle and skills I use to build products with AI. They are free to copy.
 
 ## Toolkit
 
@@ -14,7 +14,7 @@ Site: https://sparkee.studio/toolkit/
 Five products fed the toolkit. Some worked and some I stopped.
 
 - [**Sparktale**](https://sparkee.studio/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
-- [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), no longer developed. Its steps continue in cv-tailor.
+- [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), paused. Its steps continue in cv-tailor.
 - [**CoachAI**](https://sparkee.studio/projects/coachai.html): a pre-beta iPhone app that keeps one activity log and helps the week stay balanced.
 - [**Parapet**](https://sparkee.studio/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
 - [**SmartChef**](https://sparkee.studio/projects/smartchef.html): an iOS app that keeps a home cook's recipes in one place.
