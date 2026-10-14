@@ -1,10 +1,10 @@
 # Hi, I'm Daniel
 
-I'm a product lead who builds. I have 8+ years in product across B2B and B2C, Since late 2024 I have shipped products myself with AI coding agents.
+I'm a product lead who builds. I have 8+ years in product across B2B and B2C. Since late 2024 I have shipped products myself with AI coding agents.
 
 ## What is here
 
-- [**how-i-work**](https://github.com/DanielErCohen/how-i-work): the nine-step cycle I run on every product, repo templates, my Claude Code setup and a few small builds. All of it is copyable.
+- [**how-i-work**](https://github.com/DanielErCohen/how-i-work): the nine-step cycle I run on my current products, repo templates, my Claude Code setup and a few small builds. All of it is copyable.
 
 ## Products
 
