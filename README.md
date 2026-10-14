@@ -18,3 +18,4 @@ I'm a product lead who builds. I have 8+ years in product across B2B and B2C. Si
 
 - Site: https://sparkee.studio
 - LinkedIn: https://www.linkedin.com/in/danielercohen
+- Email: danielercohen@gmail.com
