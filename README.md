@@ -1,22 +1,25 @@
 # Hi, I'm Daniel
 
-I'm a product lead who builds. I have 8+ years in product across B2B and B2C. Since late 2024 I have shipped products myself with AI coding agents.
+I'm a product lead who builds, with 8+ years in product across B2B and B2C. These repos hold the setup, cycle and skills I use to build products with AI, free to copy.
 
-## What is here
+## Toolkit
 
-- [**how-i-work**](https://github.com/DanielErCohen/how-i-work): the nine-step cycle I run on my current products, repo templates, my Claude Code setup and a few small builds. All of it is copyable.
-- [**cv-tailor**](https://github.com/DanielErCohen/cv-tailor): the steps my CV app ran, as Claude skills and markdown. Build a main CV, tailor it to a role and a company, keep every version in git.
+- [**how-i-work**](https://github.com/DanielErCohen/how-i-work): my Claude Code setup, a nine-step product cycle with repo templates, three skills, two routines and three small builds. A catalogue table at the top of the README gives the setup time for each.
+- [**cv-tailor**](https://github.com/DanielErCohen/cv-tailor): Claude skills and guides that build one strong main CV, tailor it to a role and a company, and keep every version in git.
 
-## Products
+Site: https://sparkee.studio/toolkit/
 
-- [**SmartChef**](https://sparkee.studio/projects/smartchef.html): an iOS app that keeps a home cook's recipes in one place, imported from a URL, a photo or a PDF.
-- [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that improves a CV and tailors it to a specific job description.
-- [**Sparktale**](https://sparkee.studio/projects/sparktale.html): a live app that turns a child's name, photo and a short form into a personalized printed storybook.
-- [**Parapet**](https://sparkee.studio/projects/parapet.html): pre-bid workflow software for contractors, built solo and stopped in September 2026. The write-up says why.
+## Where these came from
+
+Five products fed the toolkit. Some worked and some I stopped.
+
+- [**Sparktale**](https://sparkee.studio/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
+- [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), no longer developed. Its steps continue in cv-tailor.
 - [**CoachAI**](https://sparkee.studio/projects/coachai.html): a pre-beta iPhone app that keeps one activity log and helps the week stay balanced.
+- [**Parapet**](https://sparkee.studio/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
+- [**SmartChef**](https://sparkee.studio/projects/smartchef.html): an iOS app that keeps a home cook's recipes in one place.
 
-## Elsewhere
+## Contact
 
-- Site: https://sparkee.studio
 - LinkedIn: https://www.linkedin.com/in/danielercohen
 - Email: danielercohen@gmail.com
