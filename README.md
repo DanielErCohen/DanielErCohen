@@ -12,7 +12,7 @@ This account holds the setup, skills and templates I use, so other PMs and build
 - Skills such as product-sparring (a peer challenge for plans) and a voice skill built from your own writing.
 - A second brain: a git-backed markdown vault that Claude files into and maintains.
 - meeting-review, a skill that turns your meeting transcripts into a review of you as a PM and team lead.
-- CoachAI, a pre-beta iPhone app that keeps one activity log.
+- CoachAI, a work-in-progress iPhone app that aims to keep one activity log.
 - cv-tailor, Claude skills that build and tailor a CV to a role, with every version in git.
 
 **A bit about me**
@@ -33,7 +33,7 @@ Five projects fed the toolkit. Some worked and some I stopped.
 
 - [**Sparktale**](https://sparkee.studio/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
 - [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), paused. Its steps continue in cv-tailor.
-- [**CoachAI**](https://sparkee.studio/projects/coachai.html): a pre-beta iPhone app that keeps one activity log and helps the week stay balanced.
+- [**CoachAI**](https://sparkee.studio/projects/coachai.html): an iPhone app that aims to keep one activity log. Work in progress, started 2026-10.
 - [**Parapet**](https://sparkee.studio/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
 - [**Second brain**](https://sparkee.studio/projects/second-brain.html): a git-backed markdown vault that Claude reads, files into and maintains. Running. Shipped as an empty template in how-i-work.
 
