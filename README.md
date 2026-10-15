@@ -1,8 +1,8 @@
 # Hi, I'm Daniel
 
-I'm a product lead with 8+ years in product across B2B and B2C. I build products with AI agents, from the first idea to a launch or a written stop.
+I'm a product lead with 8+ years in product across B2B and B2C. I launch ideas or stop them when a rule I wrote in advance says so.
 
-Every project starts with a problem. I build the smallest useful version and test it end to end before I add anything.
+I start with one user problem and build the smallest version that tests it. I test it end to end before I add anything.
 
 This account holds the setup, skills and templates I use, so other PMs and builders can copy them.
 
