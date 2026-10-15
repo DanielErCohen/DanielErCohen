@@ -2,7 +2,7 @@
 
 I'm a product lead with 8+ years in product across B2B and B2C. Here are the tools and steps that help me work better as a PM, free to copy - they come from side projects I build with AI on weekends, most with few users.
 
-I start with one user problem and build the smallest version that tests it. I test it end to end before I add anything.
+Each side project starts from one user problem and the smallest version that tests it. I run that version end to end before I add features.
 
 This account holds the setup, skills and templates I use, so other PMs and builders can copy them.
 
