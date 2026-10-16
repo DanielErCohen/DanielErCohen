@@ -31,7 +31,7 @@ I share the skills, templates and working files I use as a PM. I use AI across r
 
 ## About and contact
 
-I listen to audiobooks, build with AI on weekends and garden. I work in English and Hebrew. My German is B1.
+I share [how I organize my second brain](https://danielercohen.github.io/ai-pm/personal/), with a PARA folder map, a template to borrow and a small reading selection.
 
 Tried a tool or want help adapting it? [Email me](mailto:danielercohen@gmail.com).
 
