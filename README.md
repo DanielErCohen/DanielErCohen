@@ -1,47 +1,38 @@
 # Hi, I'm Daniel
 
-I'm a product lead with 8+ years in product across B2B and B2C. Here are the tools and steps that help me work better as a PM, free to copy - they come from side projects I build with AI on weekends, most with few users.
+I share the skills, templates and working files I use as a PM. They come from side projects I build with AI on weekends, most with few users. You can copy them and adapt them to your own work.
 
-Each side project starts from one user problem and the smallest version that tests it. I run that version end to end before I add features.
+[Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [Read the principles](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
-This account holds the setup, skills and templates I use, so other PMs and builders can copy them.
+## Start with a task
 
-**Lately, I've been working on**
+| If you want to... | Try |
+|---|---|
+| Challenge a plan before building | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
+| Write using rules from your own writing | [Voice skill](https://danielercohen.github.io/ai-pm/toolkit/skills.html#voice) |
+| Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
+| Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
+| Tailor a CV to a role | [cv-tailor](https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html) |
+| Record a decision and the test behind it | [Decision record](https://danielercohen.github.io/ai-pm/toolkit/decision-record.html) |
 
-- A Claude Code setup split by model and agent: one plans, one codes, a fast one reads.
-- Skills such as product-sparring (a peer challenge for plans) and a voice skill built from your own writing.
-- A second brain: a git-backed markdown vault that Claude files into and maintains.
-- meeting-review, a skill that turns your meeting transcripts into a review of you as a PM and team lead.
-- CoachAI, a work-in-progress iPhone app.
-- cv-tailor, Claude skills that build and tailor a CV to a role, with every version in git.
+## Source files
 
-**A bit about me**
+- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude setup, skills, routines, second-brain scaffold, meeting review, small builds and decision record.
+- [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
+- [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, principles and project write-ups.
+
+## Where the tools came from
+
+- [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), a CV-tailoring app whose development is paused; its workflow continues in cv-tailor.
+- [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalised printed children's books, live at [sparktale.ai](https://sparktale.ai).
+- [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in September 2026; the write-up explains the tests and limits.
+- [CoachAI](https://danielercohen.github.io/ai-pm/projects/coachai.html), an iPhone app I started in October 2026, still in progress.
+- [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault behind the empty scaffold in how-i-work.
+
+## About and contact
 
 I listen to audiobooks, build with AI on weekends and garden. I work in English and Hebrew. My German is B1.
 
-I learned most of my product practice from Marty Cagan, Melissa Perri, Lenny Rachitsky, Aakash Gupta, Paweł Huryn and Claire Vo. [Who they are and what I took](https://danielercohen.github.io/sparkee-site/about.html#people).
+Tried a tool or want help adapting it? [Email me](mailto:danielercohen@gmail.com).
 
-## Toolkit
-
-- [**how-i-work**](https://github.com/DanielErCohen/how-i-work): my Claude Code setup, three skills, two routines, a second-brain template and three small builds. A catalogue table at the top of the README gives the setup time for each. My nine-step product cycle with repo templates sits below it as my method.
-- [**meeting-review**](https://github.com/DanielErCohen/how-i-work/tree/main/meeting-review): a Claude skill in how-i-work that reads three months of your meeting transcripts and returns a dated, quote-backed review of you as a PM and team lead.
-- [**cv-tailor**](https://github.com/DanielErCohen/cv-tailor): Claude skills and guides that build one strong main CV, tailor it to a role and a company, and keep every version in git.
-
-Toolkit on the site: https://danielercohen.github.io/sparkee-site/toolkit/
-
-## Where these came from
-
-SmartChef, my first app from 2024-12, came first and has no page. Five projects since then fed the toolkit.
-
-- [**LandMyCV**](https://danielercohen.github.io/sparkee-site/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), paused. Its steps continue in cv-tailor.
-- [**Sparktale**](https://danielercohen.github.io/sparkee-site/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
-- [**Parapet**](https://danielercohen.github.io/sparkee-site/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
-- [**CoachAI**](https://danielercohen.github.io/sparkee-site/projects/coachai.html): an iPhone app, work in progress, started 2026-10.
-- [**Second brain**](https://danielercohen.github.io/sparkee-site/projects/second-brain.html): a git-backed markdown vault that Claude reads, files into and maintains. Running. Shipped as an empty template in how-i-work.
-
-## Contact
-
-- Site: https://danielercohen.github.io/sparkee-site/
-- About me: https://danielercohen.github.io/sparkee-site/about.html
-- LinkedIn: https://www.linkedin.com/in/danielercohen
-- Email: danielercohen@gmail.com
+[About me](https://danielercohen.github.io/ai-pm/about.html) · [LinkedIn](https://www.linkedin.com/in/danielercohen)
