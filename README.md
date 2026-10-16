@@ -25,21 +25,21 @@ I listen to audiobooks, build with AI on weekends and garden. I work in English 
 - [**meeting-review**](https://github.com/DanielErCohen/how-i-work/tree/main/meeting-review): a Claude skill in how-i-work that reads three months of your meeting transcripts and returns a dated, quote-backed review of you as a PM and team lead.
 - [**cv-tailor**](https://github.com/DanielErCohen/cv-tailor): Claude skills and guides that build one strong main CV, tailor it to a role and a company, and keep every version in git.
 
-Toolkit on the site: https://sparkee.studio/toolkit/
+Toolkit on the site: https://danielercohen.github.io/sparkee-site/toolkit/
 
 ## Where these came from
 
 SmartChef, my first app from 2024-12, came first and has no page. Five projects since then fed the toolkit.
 
-- [**LandMyCV**](https://sparkee.studio/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), paused. Its steps continue in cv-tailor.
-- [**Sparktale**](https://sparkee.studio/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
-- [**Parapet**](https://sparkee.studio/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
-- [**CoachAI**](https://sparkee.studio/projects/coachai.html): an iPhone app, work in progress, started 2026-10.
-- [**Second brain**](https://sparkee.studio/projects/second-brain.html): a git-backed markdown vault that Claude reads, files into and maintains. Running. Shipped as an empty template in how-i-work.
+- [**LandMyCV**](https://danielercohen.github.io/sparkee-site/projects/landmycv.html): a web app that tailors a CV to a job description. Live at [landmycv.com](https://landmycv.com), paused. Its steps continue in cv-tailor.
+- [**Sparktale**](https://danielercohen.github.io/sparkee-site/projects/sparktale.html): personalised printed children's books. Live at [sparktale.ai](https://sparktale.ai).
+- [**Parapet**](https://danielercohen.github.io/sparkee-site/projects/parapet.html): pre-bid software for contractors, built solo and stopped in September 2026. The write-up says why.
+- [**CoachAI**](https://danielercohen.github.io/sparkee-site/projects/coachai.html): an iPhone app, work in progress, started 2026-10.
+- [**Second brain**](https://danielercohen.github.io/sparkee-site/projects/second-brain.html): a git-backed markdown vault that Claude reads, files into and maintains. Running. Shipped as an empty template in how-i-work.
 
 ## Contact
 
-- Site: https://sparkee.studio/
-- About me: https://sparkee.studio/about.html
+- Site: https://danielercohen.github.io/sparkee-site/
+- About me: https://danielercohen.github.io/sparkee-site/about.html
 - LinkedIn: https://www.linkedin.com/in/danielercohen
 - Email: danielercohen@gmail.com
