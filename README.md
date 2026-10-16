@@ -1,14 +1,14 @@
 # Hi, I'm Daniel
 
-I share the skills, templates and working files I use as a PM. They come from side projects I build with AI on weekends, most with few users. You can copy them and adapt them to your own work.
+I share the skills, templates and working files I use as a PM. I use AI across research, decisions and delivery; weekend side projects give me room to experiment. You can copy them and adapt them to your own work.
 
-[Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [Read the principles](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
+[Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I use AI across product work](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
 ## Start with a task
 
 | If you want to... | Try |
 |---|---|
-| Challenge a plan before building | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
+| Challenge a product plan | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
 | Write using rules from your own writing | [Voice skill](https://danielercohen.github.io/ai-pm/toolkit/skills.html#voice) |
 | Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
 | Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
@@ -19,9 +19,9 @@ I share the skills, templates and working files I use as a PM. They come from si
 
 - [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude setup, skills, routines, second-brain scaffold, meeting review, small builds and decision record.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
-- [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, principles and project write-ups.
+- [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, a nine-step PM workflow and the principles behind my choices.
 
-## Where the tools came from
+## Side projects and curiosity
 
 - [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), a CV-tailoring app whose development is paused; its workflow continues in cv-tailor.
 - [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalised printed children's books, live at [sparktale.ai](https://sparktale.ai).
