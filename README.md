@@ -19,6 +19,8 @@ This account holds the setup, skills and templates I use, so other PMs and build
 
 I listen to audiobooks, build with AI on weekends and garden. I work in English and Hebrew. My German is B1.
 
+I learned most of my product practice from Marty Cagan, Melissa Perri, Lenny Rachitsky, Aakash Gupta, Paweł Huryn and Claire Vo. [Who they are and what I took](https://danielercohen.github.io/sparkee-site/about.html#people).
+
 ## Toolkit
 
 - [**how-i-work**](https://github.com/DanielErCohen/how-i-work): my Claude Code setup, three skills, two routines, a second-brain template and three small builds. A catalogue table at the top of the README gives the setup time for each. My nine-step product cycle with repo templates sits below it as my method.
