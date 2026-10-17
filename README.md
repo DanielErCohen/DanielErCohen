@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-I'm a product lead with 9+ years in B2B and B2C. I use AI to question my work and widen what I look at, across research, decisions and delivery. I frame the problem, decide and sign off. I share the skills, templates and working files that help me work better as a PM. Weekend side projects give me room to experiment. You can copy everything here and adapt it to your own work.
+I'm a product lead with 9+ years in B2B and B2C. I use AI to question my work and widen what I look at, across research, decisions and delivery. I frame the problem, decide and sign off. I share the skills, templates and working files that help me work better as a PM. Side projects give me room to experiment. You can copy everything here and adapt it to your own work.
 
 [Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I work: get your work challenged before it reaches people](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
@@ -18,11 +18,11 @@ I'm a product lead with 9+ years in B2B and B2C. I use AI to question my work an
 
 ## Source files
 
-- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude setup, skills, routines, second-brain scaffold, meeting review, small builds and decision record.
+- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, small builds and decision record.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, a nine-step PM workflow and the principles behind my choices.
 
-## Hobby projects
+## Side projects
 
 I fell in love with AI in Nov '24 and started with an AI-led recipe app and meal planner. Here are a handful of the projects that came after.
 
