@@ -8,6 +8,7 @@ I share the skills, templates and working files I use as a PM. I use AI across r
 
 | If you want to... | Try |
 |---|---|
+| Get a doc challenged by the people who will read it | [recipient-panel](https://danielercohen.github.io/ai-pm/toolkit/skills.html#recipient-panel) |
 | Challenge a product plan | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
 | Write using rules from your own writing | [Voice skill](https://danielercohen.github.io/ai-pm/toolkit/skills.html#voice) |
 | Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
