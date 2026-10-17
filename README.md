@@ -26,7 +26,7 @@ I share the skills, templates and working files I use as a PM. I use AI across r
 - [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), a CV-tailoring app whose development is paused; its workflow continues in cv-tailor.
 - [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalised printed children's books, live at [sparktale.ai](https://sparktale.ai).
 - [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in September 2026; the write-up explains the tests and limits.
-- [CoachAI](https://danielercohen.github.io/ai-pm/projects/coachai.html), an iPhone app I started in October 2026, still in progress.
+- [Wellness Coach](https://danielercohen.github.io/ai-pm/projects/wellness-coach.html), an iPhone app I started in October 2026, still in progress.
 - [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault behind the empty scaffold in how-i-work.
 
 ## About and contact
