@@ -1,14 +1,14 @@
 # Hi, I'm Daniel
 
-I share the skills, templates and working files I use as a PM. I use AI across research, decisions and delivery; weekend side projects give me room to experiment. You can copy them and adapt them to your own work.
+I'm a product lead with 9+ years in B2B and B2C. I use AI across research, decisions and delivery, and I share the skills, templates and working files that help me work better as a PM. Weekend side projects give me room to experiment. You can copy everything here and adapt it to your own work.
 
-[Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I use AI across product work](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
+[Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I work: get your work challenged before it reaches people](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
 ## Start with a task
 
 | If you want to... | Try |
 |---|---|
-| Get a doc challenged by the people who will read it | [recipient-panel](https://danielercohen.github.io/ai-pm/toolkit/skills.html#recipient-panel) |
+| Get a doc challenged by AI stand-ins for its readers | [recipient-panel](https://danielercohen.github.io/ai-pm/toolkit/skills.html#recipient-panel) |
 | Challenge a product plan | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
 | Write using rules from your own writing | [Voice skill](https://danielercohen.github.io/ai-pm/toolkit/skills.html#voice) |
 | Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
