@@ -22,13 +22,15 @@ I'm a product lead with 9+ years in B2B and B2C. I use AI across research, decis
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, a nine-step PM workflow and the principles behind my choices.
 
-## Side projects and curiosity
+## Hobby projects
 
-- [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), a CV-tailoring app whose development is paused; its workflow continues in cv-tailor.
+I fell in love with AI in November 2024 and started with an AI-led recipe app and meal planner. Here are a handful of the projects that came after.
+
+- [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault I use every day; the empty scaffold is in how-i-work.
 - [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalised printed children's books, live at [sparktale.ai](https://sparktale.ai).
-- [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in September 2026; the write-up explains the tests and limits.
-- [Wellness Coach](https://danielercohen.github.io/ai-pm/projects/wellness-coach.html), an iPhone app I started in October 2026, still in progress.
-- [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault behind the empty scaffold in how-i-work.
+- [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), a CV-tailoring app whose development is paused; its workflow continues in cv-tailor.
+- [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in Sep '26; the write-up explains the tests and limits.
+- [Wellness Coach](https://danielercohen.github.io/ai-pm/projects/wellness-coach.html), an iPhone app I started in Oct '26, still in progress.
 
 ## About and contact
 
