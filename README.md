@@ -36,6 +36,6 @@ I fell in love with AI in Nov '24 and started with an AI-led recipe app and meal
 
 I share [how I organize my second brain](https://danielercohen.github.io/ai-pm/personal/), with a PARA folder map, a template to borrow and a small reading selection.
 
-Tried a tool or want help adapting it? [Message me on LinkedIn](https://www.linkedin.com/in/danielercohen).
+Need help applying a tool, have feedback or want to talk? [Message me on LinkedIn](https://www.linkedin.com/in/danielercohen).
 
 [About me](https://danielercohen.github.io/ai-pm/about.html) · [LinkedIn](https://www.linkedin.com/in/danielercohen)
