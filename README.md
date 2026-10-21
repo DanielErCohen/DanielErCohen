@@ -1,6 +1,6 @@
 # Hi, I'm Daniel
 
-I'm a product lead with 9+ years in B2B and B2C, building with AI since November 2024 for my work and my life at home. These are the product management tools I built and use, free to share. Each tool's page says what it fixes and what changed for me.
+I'm a product lead with years of experience in B2B and B2C product management, building with AI since November 2024 for my work and my life at home. These are the product management tools I built and use, free to share. Each tool's page says what it fixes and what changed for me.
 
 [Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I work: get your work challenged before it reaches people](https://danielercohen.github.io/ai-pm/principles/) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
