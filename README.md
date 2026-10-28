@@ -15,6 +15,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 | Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
 | Tailor a CV to a role | [cv-tailor](https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html) |
 | Record a decision and the test behind it | [Decision record](https://danielercohen.github.io/ai-pm/toolkit/decision-record.html) |
+| Review your progress from your weekly notes | [Development review](https://danielercohen.github.io/ai-pm/toolkit/development-review.html) |
 
 ## Source files
 
