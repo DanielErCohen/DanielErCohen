@@ -19,7 +19,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 
 ## Source files
 
-- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension and decision record.
+- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension, decision record and development review starter.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, a nine-step PM workflow and the principles behind my choices.
 
