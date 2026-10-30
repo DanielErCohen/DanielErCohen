@@ -14,6 +14,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 | Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
 | Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
 | Tailor a CV to a role | [cv-tailor](https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html) |
+| Start a new project with a brief, stop lines and an owner checklist | [Project start](https://danielercohen.github.io/ai-pm/toolkit/project-start.html) |
 | Record a decision and the test behind it | [Decision record](https://danielercohen.github.io/ai-pm/toolkit/decision-record.html) |
 | Review your progress from your weekly notes | [Development review](https://danielercohen.github.io/ai-pm/toolkit/development-review.html) |
 
@@ -21,6 +22,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 
 - [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension, decision record and development review starter.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a fictional worked example.
+- [project-start](https://github.com/DanielErCohen/project-start) holds the Project start template: the interview, a core every project gets, 14 modules, an installer and a verify script.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site, with tool instructions, a nine-step PM workflow and the principles behind my choices.
 
 ## Side projects
