@@ -30,7 +30,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 I fell in love with AI in Nov '24 and started with an AI-led recipe app and meal planner. Here are a handful of the projects that came after.
 
 - [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault I use every day; the empty scaffold is in how-i-work.
-- [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalised printed children's books, live at [sparktale.ai](https://sparktale.ai).
+- [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalized printed children's books, live at [sparktale.ai](https://sparktale.ai).
 - [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), improves a CV and tailors it to a job description. Paused; the steps continue in cv-tailor.
 - [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in Sep '26; the write-up explains the tests and limits.
 - [Wellness Coach](https://danielercohen.github.io/ai-pm/projects/wellness-coach.html), one iPhone app for your wellness activities, driven by conversation. Work in progress, started in Oct '26.
