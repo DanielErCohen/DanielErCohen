@@ -1,26 +1,28 @@
 # Hi, I'm Daniel
 
-I'm a product lead with years of experience in B2B and B2C product management, building with AI since November 2024 for my work and my life at home. These are the product management tools I built and use, free to share. Each tool's page says what it fixes and what changed for me. Every page also has a prompt your AI uses to adapt the tool to your role, tone and tools.
+I'm a product lead with years of experience in B2B and B2C product management, building with AI since November 2024 for my work and my life at home. These are the product management tools I built and use, free to share. Each page says what its tool fixes and how to start. Most have a prompt that adapts the tool to your role, tone and tools.
 
 [Browse the tools](https://danielercohen.github.io/ai-pm/toolkit/) · [How I work: nine steps, each with a prompt](https://danielercohen.github.io/ai-pm/principles/cycle.html) · [See the projects](https://danielercohen.github.io/ai-pm/projects/)
 
 ## Start with a task
 
+The first three are the quickest to try. [All ten tools](https://danielercohen.github.io/ai-pm/toolkit/) are in the toolkit.
+
 | If you want to... | Try |
 |---|---|
-| Get a doc challenged by AI stand-ins for its readers | [recipient-panel](https://danielercohen.github.io/ai-pm/toolkit/skills.html#recipient-panel) |
 | Challenge a product plan | [product-sparring](https://danielercohen.github.io/ai-pm/toolkit/skills.html#product-sparring) |
+| Get a doc challenged by simulated readers | [recipient-panel](https://danielercohen.github.io/ai-pm/toolkit/skills.html#recipient-panel) |
+| Record a decision and the test behind it | [Decision record](https://danielercohen.github.io/ai-pm/toolkit/decision-record.html#start) |
 | Write using rules from your own writing | [Voice skill](https://danielercohen.github.io/ai-pm/toolkit/skills.html#voice) |
 | Keep product notes usable across AI sessions | [Second brain](https://danielercohen.github.io/ai-pm/toolkit/second-brain.html) |
 | Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
 | Tailor a CV to a role | [cv-tailor](https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html) |
-| Start a new project with a brief, stop lines and an owner checklist | [Project start](https://danielercohen.github.io/ai-pm/toolkit/project-start.html) |
-| Record a decision and the test behind it | [Decision record](https://danielercohen.github.io/ai-pm/toolkit/decision-record.html) |
-| Review your progress from your weekly notes | [Development review](https://danielercohen.github.io/ai-pm/toolkit/development-review.html) |
+| Start a new project with a brief, kill lines and an owner checklist | [Project start](https://danielercohen.github.io/ai-pm/toolkit/project-start.html) |
+| Review your progress from your weekly notes | [Personal development review](https://danielercohen.github.io/ai-pm/toolkit/development-review.html) |
 
 ## Source files
 
-- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension, decision record and development review starter, plus the nine-step guides and two repo skeletons.
+- [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension, decision record and personal development review starter, plus the nine-step guides and two repo skeletons.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a made-up worked example.
 - [project-start](https://github.com/DanielErCohen/project-start) holds the Project start template: the interview, a core every project gets, 14 modules, an installer and a verify script.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site: tool pages, the nine steps and the principles behind my choices.
@@ -29,16 +31,16 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 
 I fell in love with AI in Nov '24 and started with an AI-led recipe app and meal planner. Here are a handful of the projects that came after.
 
-- [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault I use every day; the empty scaffold is in how-i-work.
+- [Second brain](https://danielercohen.github.io/ai-pm/projects/second-brain.html), the notes vault I use every day. The empty scaffold is in how-i-work.
 - [Sparktale](https://danielercohen.github.io/ai-pm/projects/sparktale.html), personalized printed children's books, live at [sparktale.ai](https://sparktale.ai).
-- [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), improves a CV and tailors it to a job description. Paused; the steps continue in cv-tailor.
-- [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in Sep '26; the write-up explains the tests and limits.
+- [LandMyCV](https://danielercohen.github.io/ai-pm/projects/landmycv.html), improves a CV and tailors it to a job description. Online, development paused. The steps continue in cv-tailor.
+- [Parapet](https://danielercohen.github.io/ai-pm/projects/parapet.html), pre-bid software for contractors that I stopped in Sep '26. The write-up explains the tests and limits.
 - [Wellness Coach](https://danielercohen.github.io/ai-pm/projects/wellness-coach.html), one iPhone app for your wellness activities, driven by conversation. Work in progress, started in Oct '26.
 
 ## About and contact
 
 I share [how I organize my second brain](https://danielercohen.github.io/ai-pm/personal/), with a PARA folder map, a template to borrow and a small reading selection.
 
-Need help applying a tool, have feedback or want to talk? [Message me on LinkedIn](https://www.linkedin.com/in/danielercohen).
+[Message me on LinkedIn](https://www.linkedin.com/in/danielercohen) about a tool, feedback or a plan you want to talk through.
 
 [About me](https://danielercohen.github.io/ai-pm/about.html) · [LinkedIn](https://www.linkedin.com/in/danielercohen)
