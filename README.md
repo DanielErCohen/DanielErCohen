@@ -6,7 +6,7 @@ I'm a product lead with years of experience in B2B and B2C product management, b
 
 ## Start with a task
 
-The first three are the quickest to try. [All ten tools](https://danielercohen.github.io/ai-pm/toolkit/) are in the toolkit.
+The first three are the quickest to try. [All eleven tools](https://danielercohen.github.io/ai-pm/toolkit/) are in the toolkit.
 
 | If you want to... | Try |
 |---|---|
@@ -18,6 +18,7 @@ The first three are the quickest to try. [All ten tools](https://danielercohen.g
 | Learn from your own meeting transcripts | [Meeting review](https://danielercohen.github.io/ai-pm/toolkit/meeting-review.html) |
 | Tailor a CV to a role | [cv-tailor](https://danielercohen.github.io/ai-pm/toolkit/cv-tailor.html) |
 | Start a new project with a brief, kill lines and an owner checklist | [Project start](https://danielercohen.github.io/ai-pm/toolkit/project-start.html) |
+| Keep track of what you promised, with each decision prepared | [Work task board](https://danielercohen.github.io/ai-pm/toolkit/work-task-board.html) |
 | Review your progress from your weekly notes | [Personal development review](https://danielercohen.github.io/ai-pm/toolkit/development-review.html) |
 
 ## Source files
@@ -25,6 +26,7 @@ The first three are the quickest to try. [All ten tools](https://danielercohen.g
 - [how-i-work](https://github.com/DanielErCohen/how-i-work) holds the Claude Code setup, skills, routines, second-brain scaffold, meeting review, page-saving extension, decision record and personal development review starter, plus the nine-step guides and two repo skeletons.
 - [cv-tailor](https://github.com/DanielErCohen/cv-tailor) holds six CV skills, guides and a made-up worked example.
 - [project-start](https://github.com/DanielErCohen/project-start) holds the Project start template: the interview, a core every project gets, 14 modules, an installer and a verify script.
+- [work-task-board](https://github.com/DanielErCohen/work-task-board) holds the Work task board kit: the page, the setup instructions, the hourly job, the scripts and a made-up sample.
 - [ai-pm](https://github.com/DanielErCohen/ai-pm) holds the site: tool pages, the nine steps and the principles behind my choices.
 
 ## Side projects
